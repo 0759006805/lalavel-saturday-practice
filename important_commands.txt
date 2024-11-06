@@ -1,0 +1,9 @@
+php artisan make:controller UserController
+
+
+@section function: this helps to extend one layouts to different pages
+
+
+
+
+@yield   enables you to change the title of the page in which your navigating too
